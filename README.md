@@ -28,6 +28,10 @@ While this isn't the stealthiest of scripts (because of the cmd.exe  execution a
          SharpStat.exe -file "C:\Users\Public\test.txt" -domain lab.raikia.com -dc lab.raikia.com
          SharpStat.exe -file "C:\Users\Public\test.txt" -computers "wkstn7.lab.raikia.com,wkstn10.lab.raikia.com"
 
+## Screenshot
+
+![img](https://i.imgur.com/IYsuRJG.png)
+
 ## Contact
 
 If you have questions or issues, hit me up at raikiasec@gmail.com or @raikiasec
