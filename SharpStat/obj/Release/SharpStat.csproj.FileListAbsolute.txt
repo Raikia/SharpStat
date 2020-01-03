@@ -1,0 +1,7 @@
+B:\do_not_scan\Devel\SharpStat\SharpStat\bin\Release\SharpStat.exe.config
+B:\do_not_scan\Devel\SharpStat\SharpStat\bin\Release\SharpStat.exe
+B:\do_not_scan\Devel\SharpStat\SharpStat\bin\Release\SharpStat.pdb
+B:\do_not_scan\Devel\SharpStat\SharpStat\obj\Release\SharpStat.csprojAssemblyReference.cache
+B:\do_not_scan\Devel\SharpStat\SharpStat\obj\Release\SharpStat.csproj.CoreCompileInputs.cache
+B:\do_not_scan\Devel\SharpStat\SharpStat\obj\Release\SharpStat.exe
+B:\do_not_scan\Devel\SharpStat\SharpStat\obj\Release\SharpStat.pdb
